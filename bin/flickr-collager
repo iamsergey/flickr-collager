@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require "flickr/collager"
+
+Flickr::Collager.generate(keywords: ARGV)
