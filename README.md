@@ -4,6 +4,14 @@ A simple Flickr collage maker based on keywords
 
 ## Installation
 
+Clone the repository and bundle:
+
+```bash
+git clone https://github.com/iamsergey/flickr-collager.git
+cd flickr-collager
+bundle
+```
+
 Build the gem:
 
 ```bash
